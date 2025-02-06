@@ -1,0 +1,14 @@
+//fazendo algo simples em java. 
+
+public class Soma {
+
+    int numero1 = 5;
+    int numero2 = 3;
+
+    int resultado = numero1 + numero2;
+ 
+    system.out.println("a soma de " + numero1 + " e " + numero2 + " é: " + resultado );
+
+
+
+
